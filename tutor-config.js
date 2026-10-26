@@ -2,8 +2,8 @@
 window.COURSE_CONFIG = {
  "api": "https://func-mining-course.azurewebsites.net/api",
  "links": {
-  "payFull": "",
-  "payInstalment": "",
+  "payFull": "https://paystack.shop/pay/bsoe-mining-full",
+  "payInstalment": "https://paystack.shop/pay/yda1j8lssf",
   "enrolForm": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=iBFpdp2b7ke7Wir-xS9NXguXesy5xKlEksmVVecOy5ZURDQ4WEtDUTBNSVpXTUdSS09SSzQxWjg3Qy4u"
  }
 };
