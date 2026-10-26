@@ -1,0 +1,7 @@
+target,local_easting_m,local_northing_m,reported_assay_ppm,model_score,evidence_status
+A,100,200,120,0.4,Intact seal; access permitted; batch QC unresolved
+B,250,300,250,0.7,Intact seal; access permitted; batch QC unresolved
+C,400,600,900,0.95,Broken seal; batch QC unresolved
+D,600,200,180,0.45,Intact seal; access permitted; batch QC unresolved
+E,500,450,620,0.85,Intact seal; access permitted; batch QC unresolved
+F,700,650,700,0.9,Access unavailable; batch QC unresolved

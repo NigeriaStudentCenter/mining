@@ -1,0 +1,7 @@
+.access-list{list-style:none;padding:0;margin:14px 0}.access-list li{padding:8px 0;border-bottom:1px solid #e3e9de;display:flex;gap:10px}
+.access-list li.ok span{color:#1d7a45;font-weight:800}.access-list li.no{color:#6b7b70}
+.locked{max-width:760px}.locked h1{margin-top:6px}
+#access-form label{display:block;margin:12px 0;font-weight:600}#access-form input{display:block;width:100%;margin-top:6px;padding:10px;border:1px solid #9fb3a4;border-radius:8px;font:inherit;box-sizing:border-box}
+#access-message{min-height:1.4em;color:#a12323;font-weight:600}
+.extra-stack .card{margin-top:22px}.case textarea{width:100%;box-sizing:border-box;margin-top:6px;font:inherit;padding:10px;border-radius:8px;border:1px solid #9fb3a4}
+.case details{margin:10px 0}.case summary{cursor:pointer;font-weight:650}

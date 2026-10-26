@@ -1,0 +1,5 @@
+time,vibration_mm_s,temperature_C,oil_pressure_kPa,status
+08:00,3,80,300,Current
+09:00,4,84,295,Current
+10:00,7,92,280,Current
+11:00,7,92,280,Timestamp frozen at 10:00
