@@ -7,7 +7,7 @@ const pathName = id => (PATHS.find(p => p.id === id) || {}).name || id;
 
 function enrolButtons() {
  return `<div class="actions"><a class="button gold" data-link="payFull" href="#account">Pay ₦60,000 in full</a><a class="button light" data-link="payInstalment" href="#account">Pay first instalment (₦20,000)</a></div>
-<ol class="small"><li>Pay securely with Paystack (card, bank transfer or USSD).</li><li>Complete the short <a data-link="enrolForm" href="#account">enrolment form</a> that opens after payment.</li><li>Come back here and sign in with <strong>the email you paid with</strong> and your <strong>Paystack payment reference</strong> (it is in your Paystack receipt email).</li></ol>`;
+<ol class="small"><li>Pay securely with Paystack (card, bank transfer or USSD).</li><li>Complete the short <a data-link="enrolForm" href="#account">enrolment form</a> that opens after payment.</li><li>Come back here and sign in with <strong>the email you paid with</strong> and your <strong>Paystack payment reference</strong> (it is in your Paystack receipt email).</li></ol><p class="small">See how we use your data in the <a href="privacy.html">course privacy notice</a>.</p>`;
 }
 
 function accessSummary() {
